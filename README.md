@@ -1,1 +1,1 @@
-# Maya-Bear
+# Maya - Textured Bunny
